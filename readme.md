@@ -45,7 +45,8 @@ Want to play with the ControlsFX sample application:
 ````shell
 ./gradlew run
 ````
-
+Example table:
+![doc/controlfx_tableview.png](doc/controlfx_tableview.png)
 
 If you have a feature you can contribute, a bug you want to fix, or have a bug you'd like to file, please direct it to the [issue tracker](https://github.com/controlsfx/controlsfx/issues).
 
