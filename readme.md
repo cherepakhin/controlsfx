@@ -1,6 +1,8 @@
 ControlsFX
 =====
 
+Main project: [https://github.com/controlsfx/](https://github.com/controlsfx/)
+
 [![Maven Central](http://img.shields.io/maven-central/v/org.controlsfx/controlsfx)](https://search.maven.org/search?q=g:org.controlsfx%20AND%20a:controlsfx)
 [![Build](https://github.com/controlsfx/controlsfx/actions/workflows/build.yml/badge.svg)](https://github.com/controlsfx/controlsfx/actions/workflows/build.yml)
 [![BSD-3 license](https://img.shields.io/badge/license-BSD--3-%230778B9.svg)](https://opensource.org/licenses/BSD-3-Clause)
